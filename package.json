@@ -19,6 +19,6 @@
   "homepage": "https://github.com/sarek4116/Search-Gif-Engine#readme",
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
